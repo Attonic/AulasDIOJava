@@ -3,9 +3,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea/
-.gitignore
+*.gitignore
 DioJava.iml
-**.iml
+*.iml
 ### Eclipse ###
 .apt_generated
 .classpath
